@@ -2,6 +2,7 @@
 /*Name: IRUNGU JAMES NDIRANGU 
 Reg No: PA106/G/28731/25
 Description: Program To check exam legibility of a student by attendance and average marks
+Date:29/9/2025
 */
 
 #include<stdio.h>
