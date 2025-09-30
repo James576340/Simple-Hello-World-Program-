@@ -9,14 +9,15 @@ Date: 30th September 2025
 
 //main function 
 int main() {
-    float attendance, avgMarks;
+    float attendance;
+    float averagemarks;
     
     printf("Enter attendance percentage: ");
     scanf("%f", &attendance);
     printf("Enter average marks: ");
-    scanf("%f", &avgMarks);
+    scanf("%f", &averagemarks);
     
-    if (attendance >= 80 && avgMarks >= 60) {
+    if (attendance >= 80 && averagemarks >= 60) {
         printf("Eligible");
     } else {
         printf("Not eligible");
