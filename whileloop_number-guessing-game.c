@@ -1,6 +1,7 @@
 /* 
 Name: IRUNGU JAMES NDIRANGU 
 Registration No: PA106/G/28731/25
+Description: While loop program 
 Date: 26/10/25
 */
 
